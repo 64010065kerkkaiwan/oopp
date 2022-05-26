@@ -1,0 +1,4 @@
+1,1,0,dfg,sdg,14,Male,54,125,None,No,No,None,None,None,None
+kerk,123,1,kerkkaiwan,supa,19,Male,15,15,None,No,No,None,None,None,None
+2,1,2,kek,s,,Male,15,15,None,Yes,Yes,Pfizer,SinoFarm,Sinovec,None
+3,3,3,d,d,15,Male,15,15,None,No,Yes,SinoFarm,Pfizer,AstraZeneca,None
